@@ -12,18 +12,41 @@ El objetivo de este proyecto es simular un entorno real de gestión de alojamien
 
 | Servicio | Descripcion | Repositorio |
 |----------|-------------|-------------|
-| StayHub-Accommodation | Gestion de alojamientos | 
-| StayHub-Reservation | Gestion de reservas | 
-| StayHub-User | Gestion de usuarios | 
-| StayHub-Country | Gestión de países | 
+| StayHub-Accommodation | Gestion de alojamientos | [Ver repositorio](https://github.com/Angelh0/StayHub-Accommodation) |
+| StayHub-Reservation | Gestion de reservas | [Ver repositorio](https://github.com/Angelh0/StayHub-Reservation) |
+| StayHub-User | Gestion de usuarios | [Ver repositorio](https://github.com/Angelh0/StayHub-User) |
+| StayHub-Country | Gestión de países | [Ver repositorio](https://github.com/Angelh0/StayHub-Country) |
 
-## Tecnologias utilizadas
-- Java
-- Spring Boot
+## Tecnologías utilizadas
+
+### Lenguaje y framework
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40"/>
+</p>
+
+### Arquitectura
+- Microservicios
+- REST API
+- gRPC
+
+### Seguridad
 - Spring Security
-- JWT
-- JPA / Hibernate
-- Rest API
-- Grpc
-- JSON
-- Git
+- JWT 
+
+### Persistencia
+- JPA
+- Hibernate
+- H2 (desarrollo)
+- MySQL (producción)
+
+### Documentación
+- Swagger / OpenAPI
+
+### Herramientas
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40"/>
+</p>
+
