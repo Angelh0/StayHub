@@ -23,7 +23,7 @@ El objetivo de este proyecto es simular un entorno real de gestión de alojamien
 ## 🛠️ Stack Tecnológico
 
 ### 🖥️ Frontend
-* **Core:** React.js, JavaScript, Vue.js.
+* **Core:** React.js, JavaScript, Vite.
 * **Estilizado:** Tailwind CSS (Diseño responsive y moderno).
 * **Gestión de Medios:** Integración con Cloudinary API para gestión de imágenes.
 
